@@ -22,4 +22,6 @@ and 100, and prints to the terminal. Add that to the master branch.
 6. Checkout your new website! URL: username.github.io/CHEME 5500 WC 4 (where username is
 YOUR username).
 
+#### Here is a cute unicorn to make the README more interesting
+
 ![alt text](https://s-media-cache-ak0.pinimg.com/originals/28/d4/16/28d416ec8df2a10cd2cffc28c92e532c.jpg)
