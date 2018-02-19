@@ -1,6 +1,6 @@
 # CHEME_5500_WC_4
-### 4th Weekly Challenge for Software Carpentry
-### For this Weekly Challenge this were the instructions
+## 4th Weekly Challenge for Software Carpentry
+### For this Weekly Challenge this were the instructions:
 #### Part 1
 1. Make a new repository titled “CHEME 5500 WC 4”.
 2. Write a python script called “hello.py” that simply prints “Hello World” to the terminal, and add
@@ -12,7 +12,9 @@ you can put whatever HTML you want in “index.html”.
 6. Push this branch to origin (command line: git push origin gh-pages)
 7. Checkout your new website! URL: username.github.io/CHEME 5500 WC 4 (where username is
 YOUR username).
+
 #### Part 2
+
 1. Return to the master branch of “CHEME 5500 WC 4”.
 2. Write a python script called “mundaneMath.py” that adds together all the even numbers between 1
 and 100, and prints to the terminal. Add that to the master branch.
